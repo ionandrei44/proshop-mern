@@ -1,6 +1,6 @@
 # ProShop eCommerce Platform
 
-Live Website: https://proshop-pjhk.onrender.com/
+<a href="https://proshop-pjhk.onrender.com/" target="_blank">Live Website</a>
 
 <img src="./frontend/public/images/screens.png">
 
